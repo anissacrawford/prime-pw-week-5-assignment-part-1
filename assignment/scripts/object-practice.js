@@ -54,4 +54,4 @@ console.log(me.shoeCount+1);
   - Console.log your object
 */
 
-console.log(me.favoriteColor='green'); //why is it equal sign here and not colon
+console.log(me.favoriteColor='green'); //equal sign here and not colon
